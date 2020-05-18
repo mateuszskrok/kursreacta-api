@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "email": "bob@example.com",
+      "password": "$2a$10$.BRIUReQ/4nZMRZXk3EZDetFcLDLIZaFhjxnum61L723aRvCpdmke",
+      "id": 2
+    },
+    {
+      "email": "john@example.com",
+      "password": "$2a$10$ARYAgJ0mn2YIuWYJEIprCORc0dqOu5/H.Y3E/WdMWUrcvHWnQ5tfy",
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 3
+    },
+    {
+      "email": "alice@example.com",
+      "password": "$2a$10$aQo5xSR4WNLsMVFBL1xVlO0A/5TOrbqx0m5KCIpqWMzZ577ZRERUm",
+      "firstName": "Alice",
+      "lastName": "P.",
+      "id": 4
+    }
+  ],
+  "timeboxes": [
+    {
+      "id": 3,
+      "title": "Uczę się o Context",
+      "totalTimeInMinutes": "20"
+    },
+    {
+      "id": 7,
+      "title": "Uczę się React.Suspense",
+      "totalTimeInMinutes": 20
+    },
+    {
+      "id": "17e59088-539f-4f15-a20b-43bef0fb716e",
+      "title": "Uczę się SetState",
+      "totalTimeInMinutes": "50"
+    }
+  ]
+}
